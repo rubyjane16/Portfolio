@@ -73,7 +73,7 @@
                         <p><strong>교내 지도 사이트</strong>></p>     
                         <div id="map-demo" class="collapse">
                            <p><a href="http://13.209.99.193:8080/map/" class="btn btn-default" role="button" target="_blank">try it</a>
-                            <a href="https://github.com/rubyjane16/JbnuMap" class="btn btn-default" role="button"target="_blank">code</a></p>
+                            <a href="https://github.com/rubyjane16/Map" class="btn btn-default" role="button"target="_blank">code</a></p>
                                <p>팀 프로젝트로 제작한 카카오맵 api를 이용한 교내 지도 사이트입니다. <br>일반 지도에서 검색할 수 없는 교내 정보를 담은 지도 사이트입니다.
                                <br>2인 1조 팀에서 팀장과 백엔드 개발을 맡았습니다.
                                <br>데이터 수집 및 검색 키워드를 받아 메인 페이지에 다중 마커를 생성해 주는 것에 기여했습니다.
@@ -153,8 +153,8 @@
             <div class="row">
                 <div class="container">
                 <div class="col-sm-6 text-left">
-                <p>전북대학교 (2021.03~ 2023.02)
-                <br>IT정보공학과 학사
+                <p>대학교 (2021.03~ 2023.02)
+                <br>공학과 학사
                <br>
                 <li>셜계 작품 경진대회 참여 (2022.12)
                 <li>캡스톤 디자인 it 포스터 부문 참여 (2022.03 ~ 2022.07)
