@@ -41,7 +41,7 @@
        	<div class="col-sm-4" align="left" style="margin-top:70px" >
      		<div style="margin-left:50px"><p><HL>Contact</HL></p>
             <p><i class="fas fa-envelope"></i> seoul8338@naver.com</p>
-            <p><i class="fas fa-phone"></i> 010-4014-9837</p>
+            <p><i class="fas fa-phone"></i></p>
             <br>
             <p><HL>Channel</HL></p>
             <p><i class="fas fa-blog"></i> Development <a href="https://blog.naver.com/seoul8338" target="_blank" class="contact-link">Blog</a> </p>
@@ -161,7 +161,6 @@
                 <li>개발 블로그 운영 (2022.01 ~ )
                 <li>SQL개발자 자격증 취득 (2022.9)
                 <li>리눅스 마스터 2급 자격증 취득 (2023.03) 
-                <li>학과 코딩대회 ITCPC 참여 (2021.07.02)
                
                 </li></p>
                 </div>
